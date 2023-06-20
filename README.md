@@ -2,6 +2,8 @@
 
 This is a simple ranking system web application that allows users to enter their name and score, which are then displayed in a ranking list. The project is built using HTML, CSS, and JavaScript, and it utilizes the browser's localStorage to store the ranking data, ensuring persistence across page reloads.
 
+> Note: This project was made quickly, so it may not be perfect, but it works simply and gets the job done.
+
 ## Features
 
 - **Add Ranking**: Users can enter their name and score in the provided input fields and click the "Add Ranking" button to add their entry to the ranking list.
@@ -19,6 +21,8 @@ To run the project locally, follow these steps:
 1. Clone the repository: `git clone https://github.com/your-username/ranking-system.git`
 2. Navigate to the project directory: `cd ranking-system`
 3. Open the `index.html` file in your preferred web browser.
+
+Alternatively, you can access the live preview of the project at [https://taupe-shortbread-eb3ec1.netlify.app/](https://taupe-shortbread-eb3ec1.netlify.app/).
 
 ## Contributions
 
