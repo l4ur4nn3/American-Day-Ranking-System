@@ -37,5 +37,3 @@ This project is licensed under the [MIT License](LICENSE). Feel free to modify a
 - The project utilizes [localStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage) for data persistence.
 - The ranking list is dynamically generated using JavaScript DOM manipulation.
 - The project makes use of HTML, CSS, and JavaScript.
-
-Feel free to customize the README according to your specific project details and add any additional sections or information as needed.
