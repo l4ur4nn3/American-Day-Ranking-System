@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
+    <title>Document</title>
+</head>
+
+<body>
+    <h1 id="title">Taureau mécanique</h1>
+    <main>
+        <div class="main">
+    <h1>Classement</h1>
+
+    <label for="name">Nom :</label>
+    <input type="text" id="name">
+
+    <label for="score">Temps en minutes :</label>
+    <input type="text" id="score" placeholder="1 minute 30 = 1,3 ou 1,30">
+
+    <button onclick="addRanking()">Ajouter</button>
+
+    <h2>Podium</h2>
+    <ul id="rankingClone"></ul>
+
+    <h2>Classement actuel :</h2>
+    <ul id="ranking"></ul>
+        </div>
+    </main>
+
+    <script src="./script.js"></script>
+
+</body>
+
+</html>
